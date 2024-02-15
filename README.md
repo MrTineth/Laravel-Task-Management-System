@@ -9,7 +9,9 @@ Task Management System Using Laravel &amp; MYSQL
 
 ![4](https://github.com/MrTineth/Laravel-Task-Management-System/assets/106744622/68627333-8a5f-400e-a590-51b8643c6942)
 
+![6](https://github.com/MrTineth/Laravel-Task-Management-System/assets/106744622/2e8be0de-5b6e-42be-8be5-5d87078dcd5d)
+
 ![5](https://github.com/MrTineth/Laravel-Task-Management-System/assets/106744622/898545ee-82ff-4d48-8c87-0ffbe6ee79ae)
 
-![6](https://github.com/MrTineth/Laravel-Task-Management-System/assets/106744622/2e8be0de-5b6e-42be-8be5-5d87078dcd5d)
+
 
